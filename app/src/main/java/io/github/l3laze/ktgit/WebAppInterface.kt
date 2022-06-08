@@ -1,4 +1,4 @@
-package com.l3laze.github.ktgit
+package io.github.l3laze.ktgit
 
 import android.webkit.JavascriptInterface
 import android.content.Context

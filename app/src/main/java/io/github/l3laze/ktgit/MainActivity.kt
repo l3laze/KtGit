@@ -1,4 +1,4 @@
-package com.l3laze.github.ktgit
+package io.github.l3laze.ktgit
 
 import android.Manifest
 import android.os.Bundle
